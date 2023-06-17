@@ -28,11 +28,10 @@ Terms Of Service - Renascence Studio
 **Indonesian Version**
 
 
-
-> 1. Penerimaan Syarat dan Ketentuan
+1. Penerimaan Syarat dan Ketentuan
 >Dengan menggunakan bot Discord ini, Anda setuju untuk mematuhi dan terikat oleh Syarat dan Ketentuan ini. Jika Anda tidak setuju dengan salah satu bagian dari Syarat dan Ketentuan ini, harap hentikan penggunaan bot ini.
 
-> 2. Penggunaan yang Sah
+2. Penggunaan yang Sah
 >Anda harus menggunakan bot ini sesuai dengan tujuan dan fungsinya yang ditentukan. Dilarang menggunakan bot untuk tujuan yang melanggar hukum, merusak, mengecoh, atau mengganggu aktivitas pengguna lainnya di Discord.
 
 3. Kewajiban Pengguna
@@ -53,31 +52,28 @@ Terms Of Service - Renascence Studio
 **English Version**
 
 
-
 1. Acceptance of Terms of Service
-By using this Discord bot, you agree to comply with and be bound by these Terms of Service. If you do not agree with any part of these Terms of Service, please refrain from using this bot.
+>By using this Discord bot, you agree to comply with and be bound by these Terms of Service. If you do not agree with any part of these Terms of Service, please refrain from using this bot.
 
 2. Legitimate Use
-You must use this bot in accordance with its intended purpose and functionality. It is prohibited to use the bot for unlawful, disruptive, deceptive, or harmful purposes, or to interfere with the activities of other users on Discord.
+>You must use this bot in accordance with its intended purpose and functionality. It is prohibited to use the bot for unlawful, disruptive, deceptive, or harmful purposes, or to interfere with the activities of other users on Discord.
 
 3. User Obligations
-You are fully responsible for your use of this bot. You are not permitted to send, upload, or distribute content that is unlawful, hateful, abusive, or pornographic, or that infringes on the intellectual property rights of third parties.
+>You are fully responsible for your use of this bot. You are not permitted to send, upload, or distribute content that is unlawful, hateful, abusive, or pornographic, or that infringes on the intellectual property rights of third parties.
 
 4. Limitation of Liability
-The use of this bot is entirely at your own risk. We or the bot creators are not responsible for any loss, damage, or other issues arising from the use of the bot, including errors or omissions in the bot.
+>The use of this bot is entirely at your own risk. We or the bot creators are not responsible for any loss, damage, or other issues arising from the use of the bot, including errors or omissions in the bot.
 
 5. Privacy and User Data
-We respect user privacy. By using this bot, you agree that we may collect, use, and process user data as described in a separate Privacy Policy.
+>We respect user privacy. By using this bot, you agree that we may collect, use, and process user data as described in a separate Privacy Policy.
 
 6. Changes to the Terms of Service
-We reserve the right to modify these Terms of Service at any time without prior notice. Such changes will be effective immediately upon being published in the bot. By continuing to use this bot, you agree to the changes made.
+>We reserve the right to modify these Terms of Service at any time without prior notice. Such changes will be effective immediately upon being published in the bot. By continuing to use this bot, you agree to the changes made.
 
 7. Termination of Use
-We reserve the right to terminate or restrict your access to this bot without prior notice if you violate these Terms of Service.
+>We reserve the right to terminate or restrict your access to this bot without prior notice if you violate these Terms of Service.
 
 # Privacy Policy for Ojol Bot (Renascence Studio)
-
-
 
 
 Renascence Studios respects the privacy of its users. This Privacy Policy explains how we collect, use, store, and protect the personal information of users who interact with our Discord bot.
