@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/NojinNojs/Renascence-Studio.git">
-    <img src="./assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/logo.png" alt="Logo" width="1920" height="1080">
   </a>
 
 <h3 align="center">Renascence Studio</h3>
