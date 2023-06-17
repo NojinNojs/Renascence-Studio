@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/NojinNojs/Renascence-Studio.git">
-    <img src="./assets/logo.png" alt="Logo" width="1920" height="1080">
+    <img src="./assets/logo.png" alt="Logo" width="960" height="540">
   </a>
 
 <h3 align="center">Renascence Studio</h3>
@@ -19,11 +19,15 @@
 
 # ToS Renascence Studio
 
+
+
 * Renascence-Studio
 Term of Services Renascence Studio
 Terms Of Service - Renascence Studio
 
 **Indonesian Version**
+
+
 
 > 1. Penerimaan Syarat dan Ketentuan
 >Dengan menggunakan bot Discord ini, Anda setuju untuk mematuhi dan terikat oleh Syarat dan Ketentuan ini. Jika Anda tidak setuju dengan salah satu bagian dari Syarat dan Ketentuan ini, harap hentikan penggunaan bot ini.
@@ -48,6 +52,8 @@ Terms Of Service - Renascence Studio
 
 **English Version**
 
+
+
 1. Acceptance of Terms of Service
 By using this Discord bot, you agree to comply with and be bound by these Terms of Service. If you do not agree with any part of these Terms of Service, please refrain from using this bot.
 
@@ -71,9 +77,15 @@ We reserve the right to terminate or restrict your access to this bot without pr
 
 # Privacy Policy for Ojol Bot (Renascence Studio)
 
+
+
+
 Renascence Studios respects the privacy of its users. This Privacy Policy explains how we collect, use, store, and protect the personal information of users who interact with our Discord bot.
 
 **1. Information Collection**
+
+
+
 
 We may collect certain personal information when users interact with Ojol Bot. This information may include:
 
@@ -84,6 +96,8 @@ We may collect certain personal information when users interact with Ojol Bot. T
 
 **2. Use of Information**
 
+
+
 The personal information collected by Ojol Bot is used for the following purposes :
 
 - Providing and improving our services
@@ -91,6 +105,8 @@ The personal information collected by Ojol Bot is used for the following purpose
 - Customizing and enhancing user experience
 
 **3. Information Sharing**
+
+
 
 We do not sell, trade, or transfer personal information collected by Ojol Bot to third parties. However, we may share this information in the following circumstances:
 
@@ -100,8 +116,12 @@ We do not sell, trade, or transfer personal information collected by Ojol Bot to
 
 **4. Data Security**
 
+
+
 We take reasonable measures to protect the personal information collected by Ojol bot. However, please be aware that no method of transmission or storage can guarantee absolute security. We cannot guarantee the security of any information transmitted to or from Ojol Bot, and users do so at their own risk.
 
 **5. Changes to the Privacy Policy**
+
+
 
 We reserve the right to modify or update this Privacy Policy from time to time. Users will be notified of any significant changes through the Discord bot or other appropriate means. Continued use of Ojol Bot after any modifications to the Privacy Policy will constitute acceptance of the updated terms.
